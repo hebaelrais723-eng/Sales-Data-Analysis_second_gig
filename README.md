@@ -1,12 +1,11 @@
 # Sales-Analysis
 Sales Analysis Dashboard (second Freelance Project)
-# Sales Analysis Dashboard (Freelance Project)
 
-## 📌 Project Overview
+## Project Overview
 
 This project was completed as a freelance data analysis task using Microsoft Excel. The goal was to clean the sales dataset, calculate key business metrics, and create clear visualizations to support decision-making.
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Perform basic data cleaning.
 - Calculate total sales.
@@ -14,7 +13,7 @@ This project was completed as a freelance data analysis task using Microsoft Exc
 - Identify the top 5 best-selling products.
 - Deliver the analysis in a well-organized and easy-to-read report.
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Microsoft Excel
 - Pivot Tables
@@ -22,7 +21,7 @@ This project was completed as a freelance data analysis task using Microsoft Exc
 - Excel Formulas
 - Data Cleaning Techniques
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Sales_Analysis_Dashboard/
@@ -35,13 +34,14 @@ Sales_Analysis_Dashboard/
 │
 ├── images/
 │   ├── monthly_sales_chart.png
-│   └── top_5_products.png
+│   └── monthly_sales.png
+│   └── total_sales.png
 │
 ├── README.md
 └── LICENSE
 ```
 
-## 📊 Analysis Performed
+## Analysis Performed
 
 - Data Cleaning
 - Total Sales Calculation
@@ -50,14 +50,15 @@ Sales_Analysis_Dashboard/
 - Data Visualization
 - Business Reporting
 
-## 📁 Files Included
+## Files Included
 
 - **Sales_Data.xlsx** – Cleaned dataset.
 - **Sales_Analysis_Report.pdf** – Final report containing the analysis and dashboard.
 - **monthly_sales_chart.png** – Monthly sales visualization.
-- **top_5_products.png** – Top 5 best-selling products chart.
+- **monthly_sales.png** –  Monthly sales table.
+-  **total_sales.png** –  top 5 best-selling products.
 
-## 🚀 Skills Demonstrated
+## Skills Demonstrated
 
 - Data Cleaning
 - Data Analysis
@@ -67,6 +68,6 @@ Sales_Analysis_Dashboard/
 - Dashboard Design
 - Business Reporting
 
-## 👩‍💻 Author
+##  Author
 
 **Heba Elrais**
